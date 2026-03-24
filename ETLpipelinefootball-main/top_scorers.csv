@@ -1,0 +1,101 @@
+player_name,team_name,position,age,salary_per_week,goals,assists,matches,average_rating,player_of_the_week
+Haaland,Man City,FWD,25.0,580000000,22,7,27,6.8,9
+Thiago,Brentford,FWD,24.0,292000000,19,1,29,4.9,5
+Semenyo,Man City,MID,26.0,328000000,15,6,29,6.0,4
+João Pedro,Chelsea,FWD,24.0,312000000,14,9,26,5.3,5
+Welbeck,Brighton,FWD,35.0,244000000,12,0,20,3.5,3
+Gyökeres,Arsenal,FWD,27.0,352000000,11,0,21,3.5,3
+Ekitiké,Liverpool,FWD,23.0,372000000,11,4,20,4.5,4
+Calvert-Lewin,Leeds,FWD,29.0,224000000,10,2,23,3.9,2
+Wilson,Fulham,MID,29.0,244000000,10,8,25,5.2,3
+Watkins,Aston Villa,FWD,30.0,340000000,9,2,25,3.6,2
+Palmer,Chelsea,MID,23.0,424000000,9,2,16,4.8,2
+Gibbs-White,Nott'm Forest,MID,26.0,296000000,9,2,29,4.3,0
+Kroupi.Jr,Bournemouth,FWD,19.0,188000000,9,0,13,3.0,0
+Bruno G.,Newcastle,MID,28.0,272000000,9,6,22,5.8,4
+Šeško,Man Utd,FWD,22.0,296000000,9,2,15,3.6,2
+Richarlison,Spurs,FWD,28.0,252000000,9,3,17,3.6,2
+Raúl,Fulham,FWD,34.0,248000000,9,5,22,3.5,1
+Mbeumo,Man Utd,MID,26.0,344000000,9,3,24,4.7,1
+B.Fernandes,Man Utd,MID,31.0,408000000,8,17,27,6.8,7
+Flemming,Burnley,FWD,27.0,212000000,8,0,13,3.2,1
+Mateta,Crystal Palace,FWD,28.0,300000000,8,0,21,3.5,2
+Enzo,Chelsea,MID,25.0,264000000,8,4,29,4.3,2
+Rogers,Aston Villa,MID,23.0,300000000,8,6,31,4.5,3
+Bowen,West Ham,FWD,29.0,300000000,8,7,31,4.6,2
+Schade,Brentford,MID,24.0,276000000,7,4,25,3.6,1
+Cunha,Man Utd,MID,26.0,320000000,7,4,23,4.2,0
+Woltemade,Newcastle,FWD,24.0,268000000,7,4,18,3.4,1
+Casemiro,Man Utd,MID,34.0,228000000,7,4,24,4.6,3
+Anthony,Burnley,MID,26.0,200000000,7,3,23,3.5,2
+Foden,Man City,MID,25.0,320000000,7,3,20,4.3,3
+Sarr,Crystal Palace,MID,28.0,252000000,7,1,19,4.7,2
+Nmecha,Leeds,FWD,27.0,200000000,6,1,10,2.6,0
+Saka,Arsenal,MID,24.0,392000000,6,8,22,4.9,2
+Ndiaye,Everton,MID,26.0,248000000,6,3,24,4.5,1
+Beto,Everton,FWD,28.0,200000000,6,1,13,2.5,2
+Barry,Everton,FWD,23.0,228000000,6,0,18,2.5,0
+Gakpo,Liverpool,MID,26.0,292000000,6,3,24,3.7,1
+Dewsbury-Hall,Everton,MID,27.0,204000000,6,5,22,4.9,4
+Gordon,Newcastle,MID,25.0,296000000,6,4,19,3.9,3
+Evanilson,Bournemouth,FWD,26.0,272000000,6,4,24,3.2,0
+Brobbey,Sunderland,FWD,24.0,212000000,6,1,15,3.0,1
+Eze,Arsenal,MID,27.0,288000000,6,3,17,3.6,3
+Trossard,Arsenal,MID,31.0,264000000,5,5,19,3.8,2
+Zubimendi,Arsenal,MID,27.0,204000000,5,1,29,3.8,1
+Summerville,West Ham,MID,24.0,224000000,5,3,21,3.8,2
+O.Dango,Brentford,MID,24.0,240000000,5,7,19,4.2,3
+Barnes,Newcastle,MID,28.0,244000000,5,0,18,2.8,2
+Tavernier,Bournemouth,MID,27.0,216000000,5,4,24,4.0,2
+Reijnders,Man City,MID,27.0,200000000,5,2,17,3.3,1
+Gomez,Brighton,MID,23.0,196000000,5,1,21,3.2,2
+Wilson,West Ham,FWD,34.0,232000000,5,2,12,2.6,1
+Neto,Chelsea,MID,26.0,280000000,5,5,25,3.7,1
+Szoboszlai,Liverpool,MID,25.0,280000000,5,3,29,4.2,3
+Buendía,Aston Villa,MID,29.0,212000000,5,2,16,2.9,3
+M.Salah,Liverpool,MID,33.0,560000000,5,6,20,4.4,0
+Romero,Spurs,DEF,27.0,200000000,4,1,20,4.1,3
+Strand Larsen,Crystal Palace,FWD,26.0,244000000,4,1,21,2.2,1
+O'Reilly,Man City,DEF,21.0,200000000,4,3,24,4.5,2
+L.Paquetá,West Ham,MID,28.0,236000000,4,2,17,3.8,1
+E.Le Fée,Sunderland,MID,26.0,200000000,4,4,26,3.7,2
+Isidor,Sunderland,FWD,25.0,200000000,4,1,12,2.3,1
+Talbi,Sunderland,MID,20.0,196000000,4,2,15,3.3,0
+Merino,Arsenal,MID,29.0,216000000,4,3,11,3.1,1
+Gravenberch,Liverpool,MID,23.0,220000000,4,5,28,4.3,3
+Rice,Arsenal,MID,27.0,292000000,4,9,29,5.4,5
+Souček,West Ham,MID,31.0,228000000,4,2,18,2.8,1
+Stach,Leeds,MID,27.0,188000000,4,6,24,4.7,3
+Iwobi,Fulham,MID,29.0,256000000,4,3,24,3.8,3
+Aaronson,Leeds,MID,25.0,216000000,4,6,22,3.6,2
+Van de Ven,Spurs,DEF,24.0,176000000,4,1,27,3.5,3
+Thiaw,Newcastle,DEF,24.0,204000000,4,0,26,4.1,3
+Okafor,Leeds,MID,25.0,220000000,4,2,14,2.8,0
+Wirtz,Liverpool,MID,22.0,332000000,4,3,22,3.9,3
+Malen,Aston Villa,MID,27.0,204000000,4,2,7,2.6,1
+McGinn,Aston Villa,MID,31.0,212000000,4,2,19,3.5,2
+Ayari,Brighton,MID,22.0,192000000,3,3,19,3.5,2
+Mount,Man Utd,MID,27.0,236000000,3,0,9,2.6,0
+Virgil,Liverpool,DEF,34.0,252000000,3,1,31,4.4,2
+Chalobah,Chelsea,DEF,26.0,220000000,3,1,28,4.5,2
+Solanke,Spurs,FWD,28.0,288000000,3,0,9,2.9,1
+Muñoz,Crystal Palace,DEF,29.0,232000000,3,3,20,5.2,2
+Tel,Spurs,MID,20.0,248000000,3,1,10,2.3,1
+J.Murphy,Newcastle,MID,31.0,236000000,3,1,14,2.5,0
+Adli,Bournemouth,MID,25.0,216000000,3,2,11,2.3,0
+Dorgu,Man Utd,DEF,21.0,164000000,3,3,15,3.4,2
+Caicedo,Chelsea,MID,24.0,228000000,3,1,24,3.7,1
+J.Palhinha,Spurs,MID,30.0,220000000,3,3,20,3.6,0
+Tolu,Wolves,FWD,25.0,212000000,3,2,14,2.2,0
+Ugochukwu,Burnley,MID,22.0,200000000,3,2,22,2.8,0
+Foster,Burnley,FWD,25.0,196000000,3,2,14,2.4,0
+R.Gomes,Wolves,DEF,22.0,176000000,3,0,7,2.3,0
+Igor Jesus,Nott'm Forest,FWD,25.0,232000000,3,4,20,2.7,0
+Lewis-Potter,Brentford,DEF,25.0,192000000,3,2,15,3.1,1
+Damsgaard,Brentford,MID,25.0,224000000,3,4,17,3.3,1
+Smith Rowe,Fulham,MID,25.0,224000000,3,1,16,2.2,0
+M.Fernandes,West Ham,MID,21.0,220000000,3,3,27,3.7,1
+Keane,Everton,DEF,33.0,184000000,3,0,24,4.4,2
+Cash,Aston Villa,DEF,28.0,188000000,3,2,27,3.8,2
+Chukwueze,Fulham,MID,26.0,212000000,3,4,9,3.1,1
+Cherki,Man City,MID,22.0,252000000,3,9,14,4.0,2
